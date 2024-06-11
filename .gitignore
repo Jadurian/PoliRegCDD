@@ -1,4 +1,5 @@
 .venv
 .git
 Data/*
-!Data/app.py
+!Data/todo.txt
+
